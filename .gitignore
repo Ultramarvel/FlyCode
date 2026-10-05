@@ -1,0 +1,15 @@
+build/
+.gradle/
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+.idea/
+*.iml
+out/
+.flycode/
+CLAUDE.md
+
+# Playwright MCP 运行日志
+.playwright-mcp/
+
+# 依赖元数据，不该出现在顶层
+META-INF/
